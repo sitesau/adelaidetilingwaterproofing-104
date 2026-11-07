@@ -1,0 +1,22 @@
+{
+  "wheel_id": 793,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-104",
+  "project": "tiling-adelaide-planning-guide-5fc81f75459e81c496f87dc246b1f84d",
+  "parent_t1_ref": "adelaidetilingwaterproofing-151",
+  "node_role": "feeder",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "tiling adelaide planning guide",
+  "intended_url": "https://aumedia.neocities.org/tiling-adelaide-planning-guide-5fc81f75459e81c496f87dc246b1f84d/",
+  "tier": "T2",
+  "writeback_nonce": "a9cbd8c79302e505",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/adelaidetilingwaterproofing-151/",
+      "anchor": "more on tiling adelaide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
